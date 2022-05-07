@@ -10,19 +10,19 @@ List of simulation codes:
 
 
 |-- System_Experiment
-	|-- nxt % The modified NXT evaluation client
-	|-- Single_Player %  Pool Management Tool for Single Attacker Case
-	|-- Two_Player %  Pool Management Tool for Two Player Case
-	|-- Five Player %  Pool Management Tool for Five Player Case
+|	|-- nxt % The modified NXT evaluation client
+|	|-- Single_Player %  Pool Management Tool for Single Attacker Case
+|	|-- Two_Player %  Pool Management Tool for Two Player Case
+|	|-- Five Player %  Pool Management Tool for Five Player Case
 |-- Simulation
-	|-- One Pool Experiment  %  Simulation of One Pool Experiment
-		|-- Single_Player    
-		|-- Two_Player    
-		|-- Five_Player    
-	|-- More_Two_Attacker  %  More Experiments on Singe Attacker scenario
-	|-- More_Two_Attacker_solo %  More Experiments on Two Player scenario
-	|-- More_Five_player_game %  More Experiments on Five Attacker scenario
-	|-- More_Ten_player_game %  More Experiments on Ten Attacker scenario
+|	|-- One Pool Experiment  %  Simulation of One Pool Experiment
+|	|	|-- Single_Player    
+|	|	|-- Two_Player    
+|	|	|-- Five_Player    
+|	|-- More_Two_Attacker  %  More Experiments on Singe Attacker scenario
+|	|-- More_Two_Attacker_solo %  More Experiments on Two Player scenario
+|	|-- More_Five_player_game %  More Experiments on Five Attacker scenario
+|	|-- More_Ten_player_game %  More Experiments on Ten Attacker scenario
 
 
 ## System Experiments
