@@ -8,38 +8,19 @@ We provide the source code files of both Monte carlo simulation, system reposito
 ## Repository Content
 List experiment/simulation codes:
 
-project
-│   README.md
-│   file001.txt    
-│
-└───folder1
-│   │   file011.txt
-│   │   file012.txt
-│   │
-│   └───subfolder1
-│       │   file111.txt
-│       │   file112.txt
-│       │   ...
-│   
-└───folder2
-    │   file021.txt
-    │   file022.txt
-
-|-- System_Experiment
-|	|-- nxt % The modified NXT evaluation client
-|	|-- Single_Player %  Pool Management Tool for Single Attacker Case
-|	|-- Two_Player %  Pool Management Tool for Two Player Case
-|	|-- Five Player %  Pool Management Tool for Five Player Case
-|-- Simulation
-|	|-- One Pool Experiment  %  Simulation of One Pool Experiment
-|	|	|-- Single_Player    
-|	|	|-- Two_Player    
-|	|	|-- Five_Player    
-|	|-- More_Two_Attacker  %  More Experiments on Singe Attacker scenario
-|	|-- More_Two_Attacker_solo %  More Experiments on Two Player scenario
-|	|-- More_Five_player_game %  More Experiments on Five Attacker scenario
-|	|-- More_Ten_player_game %  More Experiments on Ten Attacker scenario
-
+```
+1. System_Experiment
+	-- nxt % The modified NXT evaluation client
+	-- Single_Player %  Pool Management Tool for Single Attacker Case
+	-- Two_Player %  Pool Management Tool for Two Player Case
+	-- Five Player %  Pool Management Tool for Five Player Case
+2. Simulation
+	-- One Pool Experiment  %  Simulation of One Pool Experiment
+	-- More_Two_Attacker  %  More Experiments on Singe Attacker scenario
+	-- More_Two_Attacker_solo %  More Experiments on Two Player scenario
+	-- More_Five_player_game %  More Experiments on Five Attacker scenario
+	-- More_Ten_player_game %  More Experiments on Ten Attacker scenario
+```
 
 ## System Experiments
 Ethereum and NXT client are opensourced projects. The sourcecode of three systems can be in the links below. Our PoS mining experiment modifies the current NXT client, to reproduce the experiment shown in Paper. The modified NXT client can be found in this repository. 
