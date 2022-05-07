@@ -7,6 +7,36 @@ We provide the source code files of both Monte carlo simulation, system reposito
 
 ## Repository Content
 List of simulation codes:
+|-- minerwang
+    |-- .browserslistrc
+    |-- .eslintrc.js
+    |-- .gitignore
+    |-- README.md
+    |-- babel.config.js
+    |-- package-lock.json
+    |-- package.json
+    |-- postcss.config.js
+    |-- vue.config.js
+    |-- public
+    |   |-- favicon.ico
+    |   |-- index.html
+    |-- src
+        |-- App.vue
+        |-- iview-variables.css
+        |-- iview-variables.less
+        |-- main.js
+        |-- router.js
+        |-- store.js
+        |-- assets
+        |   |-- logo.png
+        |-- components
+        |   |-- HelloWorld.vue
+        |-- plugins
+        |   |-- iview.js
+        |-- views
+            |-- About.vue
+            |-- Home.vue
+
 
 
 |-- System_Experiment
