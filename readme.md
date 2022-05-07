@@ -6,38 +6,24 @@ This repository assists reviewers reproduce the Monte Carlo simulation results a
 We provide the source code files of both Monte carlo simulation, system repository and a detailed guidebook so that the experiments can be reproduced by reviewers. 
 
 ## Repository Content
-List of simulation codes:
-|-- minerwang
-    |-- .browserslistrc
-    |-- .eslintrc.js
-    |-- .gitignore
-    |-- README.md
-    |-- babel.config.js
-    |-- package-lock.json
-    |-- package.json
-    |-- postcss.config.js
-    |-- vue.config.js
-    |-- public
-    |   |-- favicon.ico
-    |   |-- index.html
-    |-- src
-        |-- App.vue
-        |-- iview-variables.css
-        |-- iview-variables.less
-        |-- main.js
-        |-- router.js
-        |-- store.js
-        |-- assets
-        |   |-- logo.png
-        |-- components
-        |   |-- HelloWorld.vue
-        |-- plugins
-        |   |-- iview.js
-        |-- views
-            |-- About.vue
-            |-- Home.vue
+List experiment/simulation codes:
 
-
+project
+│   README.md
+│   file001.txt    
+│
+└───folder1
+│   │   file011.txt
+│   │   file012.txt
+│   │
+│   └───subfolder1
+│       │   file111.txt
+│       │   file112.txt
+│       │   ...
+│   
+└───folder2
+    │   file021.txt
+    │   file022.txt
 
 |-- System_Experiment
 |	|-- nxt % The modified NXT evaluation client
