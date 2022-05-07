@@ -1,0 +1,30 @@
+# Paper \#132 submitted to VLDB 2023
+
+## Description
+
+This repository assists reviewers reproduce the Monte Carlo simulation results and system experiments in Paper \#132.
+We provide the source code files of both Monte carlo simulation, system repository and a detailed guidebook so that the experiments can be reproduced by reviewers. 
+
+## Repository Content
+List of simulation codes:
+'''
+|-- System_Experiment
+	|-- nxt % The modified NXT evaluation client
+	|-- Single_Player %  Pool Management Tool for Single Attacker Case
+	|-- Two_Player %  Pool Management Tool for Two Player Case
+	|-- Five Player %  Pool Management Tool for Five Player Case
+|-- Simulation
+	|-- One Pool Experiment  %  Simulation of One Pool Experiment
+		|-- Single_Player  %  
+		|-- Two_Player  %  
+		|-- Five_Player  %  
+	|-- More_Sinle_Player  %  More Experiments on Singe Attacker scenario
+	|-- More_Sinle_Player  %  More Experiments on Two Player scenario
+	|-- More_Sinle_Player  %  More Experiments on Five Attacker scenario
+'''
+
+## System Experiments
+Ethereum and NXT client are opensourced projects. The sourcecode of three systems can be in the links below. Our PoS mining experiment modifies the current NXT client, to reproduce the experiment shown in Paper. The modified NXT client can be found in this repository. 
+
+[Nxt Blockchain Creation Kit](https://bitbucket.org/Jelurida/nxt-clone-starter/src/master/)
+[Geth Client](https://github.com/ethereum/go-ethereum) 
