@@ -10,7 +10,6 @@ List experiment/simulation codes:
 
 ```
 1. System_Experiment
-	-- nxt % The modified NXT evaluation client
 	-- Single_Player %  Pool Management Tool for Single Attacker Case
 	-- Two_Player %  Pool Management Tool for Two Player Case
 	-- Five Player %  Pool Management Tool for Five Player Case
