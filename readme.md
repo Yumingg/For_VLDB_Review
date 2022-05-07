@@ -25,6 +25,6 @@ List experiment/simulation codes:
 ## System Experiments
 Ethereum and NXT client are opensourced projects. The sourcecode of three systems can be in the links below. Our PoS mining experiment modifies the current NXT client, to reproduce the experiment shown in Paper. The modified NXT client can be found in this repository. 
 
-[Nxt Blockchain Creation Kit](https://bitbucket.org/Jelurida/nxt-clone-starter/src/master/)
-[Nxt Modified](dropbox_download) https://www.dropbox.com/s/tx49cefow6jg8hz/nxt.zip?dl=0
+[Nxt Original Blockchain Creation Kit](https://bitbucket.org/Jelurida/nxt-clone-starter/src/master/)
+[Nxt Modified Version](https://www.dropbox.com/s/tx49cefow6jg8hz/nxt.zip?dl=0) 
 [Geth Client](https://github.com/ethereum/go-ethereum) 
